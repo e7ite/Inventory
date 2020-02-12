@@ -5,6 +5,11 @@
 using std::string;
 using std::ostream;
 
+/*
+   Class that keeps track of individual items stored in an
+   inventory including name, price, how many in stock. Has 
+   method to sell items which shall update how many are left as well 
+*/
 class Inventory
 {
   private:
