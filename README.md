@@ -1,4 +1,4 @@
-Inventory:
+Inventory: [![Build Status](https://travis-ci.org/e7ite/Inventory.svg?branch=master)](https://travis-ci.org/e7ite/Inventory)
 
 To Build:
 	1. Fork this repository
